@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="as">0dp</dimen>
+    <dimen name="av">0dp</dimen>
+    <dimen name="aw">12dp</dimen>
+</resources>
